@@ -1,3 +1,6 @@
+# Welcome!
+👋 Welcome to my profile! I mostly do coding as a hobby, but I **does** do stuff on GitHub.
+
 # System specs
 
 **moon4@ubuntu** 
